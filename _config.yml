@@ -1,6 +1,4 @@
 theme: jekyll-theme-minimal
 title: Data Boars
 description: Wildlife detection and tracking
-video: <video autoplay="" muted="" loop="" id="background-video">
-        <source src="https://github.com/data-boars/data-boars.github.io/blob/master/assets/bin/boars_short.mp4?raw=true" type="video/mp4">
-      </video>
+video: https://github.com/data-boars/data-boars.github.io/blob/master/assets/bin/boars_short.mp4?raw=true
