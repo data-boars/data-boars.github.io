@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Wildlife Detection and Tracking
 
-You can use the [editor on GitHub](https://github.com/data-boars/data-boars.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+We've taken the challenge of detecting and tracking wildlife animals, specifically: wild boars, using thermal vison, unmanned aerial vehicles (UAVs) and machine learning. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Vision
 
-### Markdown
+- TBD
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Dataset
 
-```markdown
-Syntax highlighted code block
+It is possible to get enough data without costly UAV flights. We generate synthetic data using [Arma 3](https://arma3.com/) tactical simulator, imitating very closely real conditions in the field. Such approaches were successfully applied to autonomous driving problems. You can see the results of our synthesis right now -- it's the animated background.
 
-# Header 1
-## Header 2
-### Header 3
+### Methods
 
-- Bulleted
-- List
+- TBD
 
-1. Numbered
-2. List
+### Authors
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/data-boars/data-boars.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Jakub Cwynar
+- Kacper Kania
+- Michał Kosturek
+- Jakub Michałowski
