@@ -12,6 +12,11 @@
     <![endif]-->
   </head>
   <body>
+    {% if site.logo %}
+      <video autoplay muted loop id="myVideo">
+        <source src="{{ site.video }}" type="video/mp4">
+      </video>
+    {% endif %}
     <div class="wrapper">
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
