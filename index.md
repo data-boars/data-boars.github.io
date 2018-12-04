@@ -4,7 +4,7 @@ We've taken the challenge of detecting and tracking wildlife animals, specifical
 
 ### Vision
 
-We seek for composition of methods sorlving the following tasks:
+We seek for composition of methods solving the following tasks:
 - Detection -- wild animals should be detected
 - Classification -- animals should be recognized and classified, e.g. is this a boar, or a deer?
 - Tracking -- animals should be trackable, i.e. system operators should be able to track paths of animals of interest
