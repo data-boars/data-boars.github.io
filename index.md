@@ -16,7 +16,9 @@ It is possible to get enough data without costly UAV flights. We generate synthe
 
 ### Methods
 
-- TBD
+We use:
+- Modern 3D graphics rendering for dataset generation
+- Machine learning methods for solving detection, classification, tracking and animal counting problems
 
 ### Authors
 
